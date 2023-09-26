@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+#testimonial{
+    background-color: #f5f5f5;
+    box-sizing: border-box;
+    padding: 30px;
+}
+.text{
+    background-color: white;
+    border: 1px solid gray;
+    padding: 20px;
+    display: flex;
+}
+
+.text-1{
+    width: 50%;
+}
+
+.author{
+    text-align: right;
+    width: 50%;
+    font-style: italic;
+}
